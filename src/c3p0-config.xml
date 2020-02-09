@@ -3,8 +3,8 @@
   <default-config><!-- 默认配置，ComboPooledDataSource类的无参构造方法在src目录下自动调用 -->
     <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
     <property name="jdbcUrl">jdbc:mysql://localhost:3306/usermsg?serverTimezone=GMT%2B8</property>
-    <property name="user">root</property>
-    <property name="password">root</property>
+    <property name="user"></property>
+    <property name="password"></property>
     <property name="initialPoolSize">10</property>
 
   </default-config>
