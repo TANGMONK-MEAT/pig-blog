@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+  <default-config><!-- 默认配置，ComboPooledDataSource类的无参构造方法在src目录下自动调用 -->
+    <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+    <property name="jdbcUrl">jdbc:mysql://localhost:3306/usermsg?serverTimezone=GMT%2B8</property>
+    <property name="user">root</property>
+    <property name="password">root</property>
+    <property name="initialPoolSize">10</property>
+
+  </default-config>
+  
+<!--  <named-config name="C3P0_Property">&lt;!&ndash; 带名字的配置，ComboPooledDataSource类的有参参构造方法在src目录下自动调用 &ndash;&gt;-->
+<!--    <property name="driverClass">com.mysql.cj.jdbc.Driver</property>-->
+<!--    <property name="jdbcUrl">jdbc:mysql://localhost:3306/usermsg?serverTimezone=GMT%2B8</property>-->
+<!--    <property name="user">root</property>-->
+<!--    <property name="password">root</property>-->
+<!--    <property name="initialPoolSize">10</property>&lt;!&ndash; 连接池初始连接对象个数 &ndash;&gt;>-->
+
+<!--  </named-config>-->
+ 
+</c3p0-config>
+
+

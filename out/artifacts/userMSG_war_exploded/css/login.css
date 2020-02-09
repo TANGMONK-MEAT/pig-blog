@@ -1,0 +1,101 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:"Î¢ÈíÑÅºÚ Light";
+    font-size:15px;
+}
+.box{
+    width:400px;
+    height:385px;
+    border:solid 0px #ddd;
+    /*background:#FFF;*/
+    position:absolute;
+    left:50%;
+    top:42%;
+    margin-left:-195px;
+    margin-top:-160px;
+    background-color: rgba(0,0,0,0.1);
+}
+.box h1{
+    font-weight:bolder;
+    color:#c7254e;
+    font-size:20px;
+    line-height:46px;
+    height:46px;
+    overflow:hidden;
+    text-align:center;
+    border-bottom:solid 1px #5e5e5e;
+    /*background:#f7f7f7;*/
+    background-color: rgba(0,0,0,0.1);
+}
+.input_box{
+    width:350px;
+    padding-bottom:15px;
+    margin:0 auto;
+    overflow:hidden;
+}
+.input_box input{
+    float:left;
+    width:348px;
+    height:45px;
+    font-size:14px;
+    border:solid 1px #ddd;
+    text-indent:10px;
+    outline:none;
+    line-height:40px;
+
+    background-position: left;
+    background-repeat: no-repeat;
+    padding: 5px 5px 5px 25px;
+}
+.input_box button{
+    width:350px;
+    height:48px;
+    background:#3f89ec;
+    border:none;
+    border-radius:2px;
+    outline:none;
+    cursor:pointer;
+    font-size:16px;
+    color:#FFF;
+}
+#error_box{
+    height:40px;
+    width:350px;
+    margin:0 auto;
+    line-height:40px;
+    color:#fc4343;
+}
+.input_check_box{
+    width:350px;
+    padding-bottom:15px;
+    margin:0 auto;
+    overflow:hidden;
+}
+.input_check_box input{
+    float:left;
+    width:180px;
+    height:45px;
+    font-size:14px;
+    border:solid 1px #ddd;
+    text-indent:10px;
+    outline:none;
+    line-height:40px;
+    background-position: left;
+    background-repeat: no-repeat;
+    padding: 5px 5px 5px 25px;
+
+}
+body{
+    /*background-position: center;*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/SensitiveWords.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/dao/implement/DynamicDaoImplement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/dao/implement/UserDaoImplement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/service/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/service/implement/UserServiceImplement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/test/testSensitiveWordsFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/util/C3P0Util.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/filter/EncodingFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/filter/LoginFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/filter/MoreLoginFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/filter/PowerUserLoginFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/filter/SensitiveWordsFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/AboutMeServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/AddUserServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/DeleteSelectedServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/FansRegistServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/FansUserLoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/FindNewDynamicMsgServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/FindOrderDynamicMsgServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/FindUserByPageServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/LoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/PhotosServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/SaveDynamicMsgServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/SetPowerUserMsgServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/ShowDynamicMsgServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/UserListServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zwl/web/servlet/saveMessageBoardServlet.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
